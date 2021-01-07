@@ -16,7 +16,7 @@ var questions= [
     {
         question:"What does CSS stand for?",
         choiceA: "Computational Style Script",
-        choiceB: "Cascading Style Script",
+        choiceB: "Cascading Style Sheets",
         choiceC: "Cascading Style Samples",
         correct: "B"
     },
